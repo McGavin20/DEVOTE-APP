@@ -65,6 +65,7 @@
 				BA849A752A5D8CBC008B993F /* Info.plist */,
 				BA849A562A5D8600008B993F /* DEVOTE_APPApp.swift */,
 				BA849A702A5D89FA008B993F /* View */,
+				BA849A742A5D8A69008B993F /* Model */,
 				BA849A732A5D8A38008B993F /* Style */,
 				BA849A722A5D8A22008B993F /* Utility */,
 				BA849A712A5D8A11008B993F /* Extension */,
@@ -97,7 +98,6 @@
 			isa = PBXGroup;
 			children = (
 				BA849A582A5D8600008B993F /* ContentView.swift */,
-				BA849A742A5D8A69008B993F /* Model */,
 			);
 			path = View;
 			sourceTree = "<group>";
