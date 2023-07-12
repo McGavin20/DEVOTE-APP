@@ -17,6 +17,7 @@
 		BA849A6D2A5D87F7008B993F /* sound-ding.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BA849A6A2A5D87F7008B993F /* sound-ding.mp3 */; };
 		BA849A6E2A5D87F7008B993F /* sound-rise.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BA849A6B2A5D87F7008B993F /* sound-rise.mp3 */; };
 		BA849A7B2A5EEA8D008B993F /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA849A7A2A5EEA8D008B993F /* Constant.swift */; };
+		BA849A7D2A5EF3C7008B993F /* HideKeyboardExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA849A7C2A5EF3C7008B993F /* HideKeyboardExtension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		BA849A6B2A5D87F7008B993F /* sound-rise.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "sound-rise.mp3"; sourceTree = "<group>"; };
 		BA849A752A5D8CBC008B993F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		BA849A7A2A5EEA8D008B993F /* Constant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constant.swift; sourceTree = "<group>"; };
+		BA849A7C2A5EF3C7008B993F /* HideKeyboardExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HideKeyboardExtension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 		BA849A712A5D8A11008B993F /* Extension */ = {
 			isa = PBXGroup;
 			children = (
+				BA849A7C2A5EF3C7008B993F /* HideKeyboardExtension.swift */,
 			);
 			path = Extension;
 			sourceTree = "<group>";
@@ -210,6 +213,7 @@
 			files = (
 				BA849A602A5D8603008B993F /* Persistence.swift in Sources */,
 				BA849A592A5D8600008B993F /* ContentView.swift in Sources */,
+				BA849A7D2A5EF3C7008B993F /* HideKeyboardExtension.swift in Sources */,
 				BA849A7B2A5EEA8D008B993F /* Constant.swift in Sources */,
 				BA849A632A5D8603008B993F /* DEVOTE_APP.xcdatamodeld in Sources */,
 				BA849A572A5D8600008B993F /* DEVOTE_APPApp.swift in Sources */,
