@@ -18,6 +18,7 @@
 		BA849A6E2A5D87F7008B993F /* sound-rise.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BA849A6B2A5D87F7008B993F /* sound-rise.mp3 */; };
 		BA849A7B2A5EEA8D008B993F /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA849A7A2A5EEA8D008B993F /* Constant.swift */; };
 		BA849A7D2A5EF3C7008B993F /* HideKeyboardExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA849A7C2A5EF3C7008B993F /* HideKeyboardExtension.swift */; };
+		BA849A7F2A5FFBCB008B993F /* BackgroundImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA849A7E2A5FFBCB008B993F /* BackgroundImageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		BA849A752A5D8CBC008B993F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		BA849A7A2A5EEA8D008B993F /* Constant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constant.swift; sourceTree = "<group>"; };
 		BA849A7C2A5EF3C7008B993F /* HideKeyboardExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HideKeyboardExtension.swift; sourceTree = "<group>"; };
+		BA849A7E2A5FFBCB008B993F /* BackgroundImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundImageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 			isa = PBXGroup;
 			children = (
 				BA849A582A5D8600008B993F /* ContentView.swift */,
+				BA849A7E2A5FFBCB008B993F /* BackgroundImageView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -212,6 +215,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BA849A602A5D8603008B993F /* Persistence.swift in Sources */,
+				BA849A7F2A5FFBCB008B993F /* BackgroundImageView.swift in Sources */,
 				BA849A592A5D8600008B993F /* ContentView.swift in Sources */,
 				BA849A7D2A5EF3C7008B993F /* HideKeyboardExtension.swift in Sources */,
 				BA849A7B2A5EEA8D008B993F /* Constant.swift in Sources */,
