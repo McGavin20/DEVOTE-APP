@@ -4,7 +4,7 @@
 
 Hey there! Welcome to the SwiftUI Core Data and Widget Tutorial! Throughout this tutorial, I've had the opportunity to learn and explore various exciting aspects of SwiftUI to build feature-rich applications. Here's a summary of what I've learned:
 
-## What I've learned
+## What I've learned📝
 
 1. **Integrating Core Data with the SwiftUI App Life Cycle**: I got familiar with Xcode's new Core Data template and learned how to effectively integrate Core Data into SwiftUI apps. It's incredible how this powerful combination can streamline data management.
 
@@ -30,12 +30,14 @@ This repository contains the code examples and project files for each topic and 
 
 Overall, this tutorial has been a fantastic learning journey, empowering me to create visually appealing SwiftUI apps with Core Data integration and engaging Widgets for my users. I'm looking forward to applying these newfound skills in my future projects!
 
-## Prerequisites
+## Prerequisites📓
 
 Before diving into this tutorial, I recommend having some basic knowledge of SwiftUI and Xcode. Familiarity with Swift programming language and iOS development will also be beneficial.
 
 Let's get started! Happy learning!
 
 ---
-*Note: The screenshorts below are help understand how each feature contributes to building feature-rich SwiftUI apps with Core Data integration and engaging Widgets. 
+*Note ⚠️ : The screenshots below are help understand how each feature contributes to building feature-rich SwiftUI apps with Core Data integration and engaging Widgets. 
+
+![Uploading Simulator Screenshot - iPhone 14 Pro - 2023-07-17 at 15.26.17.png…](){:width="400px"}
 
