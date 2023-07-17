@@ -39,4 +39,4 @@ Let's get started! Happy learning!
 ---
 *Note ⚠️ : The screenshots below are help understand how each feature contributes to building feature-rich SwiftUI apps with Core Data integration and engaging Widgets. 
 
-<img src = "https://github.com/McGavin20/DEVOTE-APP/assets/86229307/6808cc7c-594e-48b5-8b71-ea014071295a.png" width="70%" height="70%"/>
+<img src = "https://github.com/McGavin20/DEVOTE-APP/assets/86229307/6808cc7c-594e-48b5-8b71-ea014071295a.png" width="50%" height="50%"/>
